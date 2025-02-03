@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Income Tax Regime Comparison",
+  "version": "1.0",
+  "description": "Compare the 2024-25 and 2025-26 income tax regimes",
+  "action": {
+    "default_popup": "popup.html"
+//    "default_icon": "icon.png"
+  },
+  "permissions": []
+}
